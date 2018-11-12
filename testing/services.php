@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Grill Multi purpose Bootstrap Website Template</title>
+    <title>Belgian Chocolate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
     <meta name="author" content="http://webthemez.com" />
@@ -40,8 +40,8 @@
                 <div class="col-md-12">
                     <div class="about-logo">
                         <h3>Our Best <span class="color">Services</span></h3>
-                        <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-                        <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                        <p>Apart from a wide choice of chocolate dragees, different kinds of pralines and a vast range of chocolate bars, you can also find unique and playful chocolate figures, gift packages and other interesting chocolate products in our stores.</p>
+                        <p>An always pleasant and warm atmosphere filled with irresistible chocolate smells will always welcome you in the stores.</p>
                     </div>
                 </div>
             </div>
@@ -147,9 +147,6 @@
                 </div>
             </div>
             <!-- End Service Blcoks -->
-
-
-
 
         </div>
     </section>

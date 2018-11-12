@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Grill Multi purpose HTML5 Web Template</title>
+    <title>Belgian Chocolate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
     <meta name="author" content="http://webthemez.com" />
@@ -38,9 +38,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="about-logo">
-                        <h3>Get<span class="color"> in Touch</span></h3>
-                        <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-                        <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                        <h3><span class="color">About</span> us</h3>
+                        <p>We are students of WTSh, and this is a school prodjekt we were forced to do for or dictator</p>
+                        <p>please help us!</p>
                     </div>
                 </div>
             </div>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Grill Multi purpose HTML5 Template</title>
+    <title>Belgian Chocolate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
     <meta name="author" content="http://webthemez.com" />
@@ -107,83 +107,21 @@
             </div>
         </div>
     </section>
-    <section id="content">
-        <div class="container">
-
-            <section class="services">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="aligncenter"><h2 class="aligncenter">We Offer</h2>
-                            A special Belgian chocolate combined with selected delicious seeds, dried fruits and aromatic spices, makes a soul for the soul. Love in the chocolate board.
-                        </div>
-                        <br/>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks material-icons">track_changes</i>
-                        <div class="info-blocks-in">
-                            <h3>Coffee</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks material-icons">settings_input_svideo</i>
-                        <div class="info-blocks-in">
-                            <h3>Breakfast</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks material-icons">queue_music</i>
-                        <div class="info-blocks-in">
-                            <h3>Lunch</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks material-icons">my_location</i>
-                        <div class="info-blocks-in">
-                            <h3>Dinner</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks material-icons">shuffle</i>
-                        <div class="info-blocks-in">
-                            <h3>Parties</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-4 info-blocks">
-                        <i class="icon-info-blocks material-icons">tab_unselected</i>
-                        <div class="info-blocks-in">
-                            <h3>Events</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
-    </section>
-
     <section class="section-padding gray-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title text-center">
-                        <h2>Our Restaurant</h2>
-                        <p>Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada Pellentesque <br>ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
+                        <h2>Our Stores</h2>
+                        <p>An always pleasant and warm atmosphere filled with irresistible chocolate smells will always welcome you in the stores.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-6 col-sm-6">
                     <div class="about-text">
-                        <p>Grids is a responsive Multipurpose Template. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur aliquet quam id dui posuere blandit. Donec sollicitudin molestie malesuada. Pellentesque in ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis porttitor volutpat.</p>
+                        <p>Apart from a wide choice of chocolate dragees, different kinds of pralines and a vast range of chocolate bars,
+                            you can also find unique and playful chocolate figures, gift packages and other interesting chocolate products in our stores.</p>
 
                         <ul class="withArrow">
                             <li><span class="fa fa-angle-right"></span> Lorem ipsum dolor sit amet</li>
@@ -191,12 +129,12 @@
                             <li><span class="fa fa-angle-right"></span> Curabitur aliquet quam id dui</li>
                             <li><span class="fa fa-angle-right"></span> Donec sollicitudin molestie malesuada.</li>
                         </ul>
-                        <a href="#" class="btn btn-primary waves-effect waves-dark">Learn More</a>
+                        <a href="portfolio.php" class="btn btn-primary waves-effect waves-dark">Gallery</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <div class="about-image">
-                        <img src="img/about.jpg" alt="About Images">
+                        <img src="img/offer.jpg" alt="Offer Image">
                     </div>
                 </div>
             </div>
