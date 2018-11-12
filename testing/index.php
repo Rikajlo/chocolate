@@ -61,10 +61,10 @@
                 <div class="col-md-4 md-margin-bottom-40">
                     <div class="card small">
                         <div class="card-image">
-                            <img class="img-responsive" src="img/service1.jpg" alt="">
+                            <img class="img-responsive" src="img/service1.jpg" alt="pralines">
                             <span class="card-title">Pralines</span>
                         </div>
-                        <div class="card-content" style="height: 160px">
+                        <div class="card-content des">
                             <p>
                                 Pralines made in Belgium are usually soft-centred confections with a chocolate casing.
                             </p>
@@ -77,10 +77,10 @@
                 <div class="col-md-4 md-margin-bottom-40">
                     <div class="card small">
                         <div class="card-image">
-                            <img class="img-responsive" src="img/service2.jpg" alt="">
+                            <img class="img-responsive" src="img/service2.jpg" alt="truffles">
                             <span class="card-title">Truffles</span>
                         </div>
-                        <div class="card-content" style="height: 160px">
+                        <div class="card-content des">
                             <p>
                                 Most commonly in the form of a flaky or smooth chocolate ball or traditionally a truffle-shaped lump.
                             </p>
@@ -93,10 +93,10 @@
                 <div class="col-md-4 md-margin-bottom-40">
                     <div class="card small">
                         <div class="card-image">
-                            <img class="img-responsive" src="img/service3.jpg" alt="">
+                            <img class="img-responsive" src="img/service3.jpg" alt="figurines">
                             <span class="card-title">Eggs, animals and figurines</span>
                         </div>
-                        <div class="card-content" style="height: 160px">
+                        <div class="card-content des">
                             <p>
                                 Hand-finished and luxury examples of eggs, animals, figurines and Valentine's Day hearts are made by many smaller Belgian chocolatiers,
                                 as elsewhere, accounting for a relatively small market share however in peak demand at Valentine's Day, Easter, Sinterklaas and Christmas.

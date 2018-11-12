@@ -5,7 +5,7 @@
                 <div class="widget">
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
-                        <strong>Bootstrap company Inc</strong><br>
+                        <strong>This website is made by students for a school project</strong><br>
                         JC Main Road, Near Silnile tower<br>
                         Pin-21542 NewYork US.</address>
                     <p>
@@ -60,11 +60,11 @@
                 </div>
                 <div class="col-lg-6">
                     <ul class="social-network">
-                        <li><a class="waves-effect waves-dark" href="#" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a class="waves-effect waves-dark" href="#" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a class="waves-effect waves-dark" href="#" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a class="waves-effect waves-dark" href="#" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
-                        <li><a class="waves-effect waves-dark" href="#" data-placement="top" title="Google plus"><i class="fa fa-google-plus"></i></a></li>
+                        <li><a class="waves-effect waves-dark" href="http://facebook.com" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a class="waves-effect waves-dark" href="http://twitter.com" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                        <li><a class="waves-effect waves-dark" href="http://linkedin.com" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a class="waves-effect waves-dark" href="http://pinterest.com" data-placement="top" title="Pinterest"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a class="waves-effect waves-dark" href="http://plus.google.com" data-placement="top" title="Google plus"><i class="fa fa-google-plus"></i></a></li>
                     </ul>
                 </div>
             </div>

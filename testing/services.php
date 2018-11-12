@@ -102,31 +102,15 @@
                 <div class="col-md-4 md-margin-bottom-40">
                     <div class="card small">
                         <div class="card-image">
-                            <img class="img-responsive" src="img/service1.jpg" alt="">
-                            <span class="card-title">Material Design</span>
+                            <img class="img-responsive" src="img/service1.jpg" alt="pralines">
+                            <span class="card-title">Pralines</span>
                         </div>
-                        <div class="card-content">
+                        <div class="card-content des">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Pralines made in Belgium are usually soft-centred confections with a chocolate casing.
                             </p>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 md-margin-bottom-40">
-                    <div class="card small">
-                        <div class="card-image">
-                            <img class="img-responsive" src="img/service2.jpg" alt="">
-                            <span class="card-title">Bootstrap</span>
-                        </div>
-                        <div class="card-content">
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
-                            </p>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                There have always been many forms and shapes: nearly always containing a chocolate shell with a softer filling.
                             </p>
                         </div>
                     </div>
@@ -134,15 +118,29 @@
                 <div class="col-md-4 md-margin-bottom-40">
                     <div class="card small">
                         <div class="card-image">
-                            <img class="img-responsive" src="img/service3.jpg" alt="">
-                            <span class="card-title">HTML5/CSS3</span>
+                            <img class="img-responsive" src="img/service2.jpg" alt="truffles">
+                            <span class="card-title">Truffles</span>
                         </div>
-                        <div class="card-content">
+                        <div class="card-content des">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Most commonly in the form of a flaky or smooth chocolate ball or traditionally a truffle-shaped lump.
                             </p>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Belgian chocolate truffles are sometimes in encrusted form containing wafers or coated in a high-quality cocoa powder.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 md-margin-bottom-40">
+                    <div class="card small">
+                        <div class="card-image">
+                            <img class="img-responsive" src="img/service3.jpg" alt="figurines">
+                            <span class="card-title">Eggs, animals and figurines</span>
+                        </div>
+                        <div class="card-content des">
+                            <p>
+                                Hand-finished and luxury examples of eggs, animals, figurines and Valentine's Day hearts are made by many smaller Belgian chocolatiers,
+                                as elsewhere, accounting for a relatively small market share however in peak demand at Valentine's Day, Easter, Sinterklaas and Christmas.
                             </p>
                         </div>
                     </div>

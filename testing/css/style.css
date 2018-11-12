@@ -1800,3 +1800,6 @@ span.color {
 .alert-danger { 
     float: left;
 }
+.des {
+	height: 160px;
+}
