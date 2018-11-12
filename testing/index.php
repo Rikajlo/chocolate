@@ -18,8 +18,8 @@
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
 </head>
+
 <body>
 <div id="wrapper" class="home-page">
     <?php require_once('header.php'); ?>
@@ -31,16 +31,16 @@
                 <li>
                     <img src="img/slides/1.jpg" alt="" />
                     <div class="flex-caption">
-                        <h3>Best BBQ!</h3>
-                        <p>Get the best Tasty Food</p>
+                        <h3>Best Belgian chocolate!</h3>
+                        <p>Get the best Belgian chocolate</p>
 
                     </div>
                 </li>
                 <li>
                     <img src="img/slides/2.jpg" alt="" />
                     <div class="flex-caption">
-                        <h3>Sea GRILL</h3>
-                        <p>Get all types of Sea Food</p>
+                        <h3>Chocolate varieties</h3>
+                        <p>Get all types of Belgian chocolate</p>
 
                     </div>
                 </li>
@@ -52,7 +52,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="aligncenter"><h2 class="aligncenter">Signature Dishes</h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, <br/>doloribus omnis minus ovident, doloribus omnis minus temporibus perferendis nesciunt..</div>
+                    <div class="aligncenter"><h2 class="aligncenter">Signature Chocolate</h2>Belgian chocolate is chocolate produced in Belgium, and today it forms an important part of the nation's economy and culture.</div>
                     <br/>
                 </div>
             </div>
@@ -62,14 +62,14 @@
                     <div class="card small">
                         <div class="card-image">
                             <img class="img-responsive" src="img/service1.jpg" alt="">
-                            <span class="card-title">Cobb Salad</span>
+                            <span class="card-title">Pralines</span>
                         </div>
-                        <div class="card-content">
+                        <div class="card-content" style="height: 160px">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Pralines made in Belgium are usually soft-centred confections with a chocolate casing.
                             </p>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                There have always been many forms and shapes: nearly always containing a chocolate shell with a softer filling.
                             </p>
                         </div>
                     </div>
@@ -78,14 +78,14 @@
                     <div class="card small">
                         <div class="card-image">
                             <img class="img-responsive" src="img/service2.jpg" alt="">
-                            <span class="card-title">Twinkies</span>
+                            <span class="card-title">Truffles</span>
                         </div>
-                        <div class="card-content">
+                        <div class="card-content" style="height: 160px">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Most commonly in the form of a flaky or smooth chocolate ball or traditionally a truffle-shaped lump.
                             </p>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Belgian chocolate truffles are sometimes in encrusted form containing wafers or coated in a high-quality cocoa powder.
                             </p>
                         </div>
                     </div>
@@ -94,14 +94,12 @@
                     <div class="card small">
                         <div class="card-image">
                             <img class="img-responsive" src="img/service3.jpg" alt="">
-                            <span class="card-title">Pot roast</span>
+                            <span class="card-title">Eggs, animals and figurines</span>
                         </div>
-                        <div class="card-content">
+                        <div class="card-content" style="height: 160px">
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
-                            </p>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt
+                                Hand-finished and luxury examples of eggs, animals, figurines and Valentine's Day hearts are made by many smaller Belgian chocolatiers,
+                                as elsewhere, accounting for a relatively small market share however in peak demand at Valentine's Day, Easter, Sinterklaas and Christmas.
                             </p>
                         </div>
                     </div>
@@ -115,7 +113,9 @@
             <section class="services">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="aligncenter"><h2 class="aligncenter">We Offer</h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident, <br/>doloribus omnis minus ovident, doloribus omnis minus temporibus perferendis nesciunt..</div>
+                        <div class="aligncenter"><h2 class="aligncenter">We Offer</h2>
+                            A special Belgian chocolate combined with selected delicious seeds, dried fruits and aromatic spices, makes a soul for the soul. Love in the chocolate board.
+                        </div>
                         <br/>
                     </div>
                 </div>
