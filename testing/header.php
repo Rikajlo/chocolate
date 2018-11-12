@@ -7,7 +7,11 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><img src="logo.png" alt="Belgian Chocolate"></a>
+                <?php if (isset($index))
+                    echo '<a class="navbar-brand" href="index.html"><img src="img/smolllogo/logowhite.png" alt="Belgian Chocolate"></a>';
+                else
+                    echo '<a class="navbar-brand" href="index.html"><img src="img/smolllogo/logowhite.png" height="50" alt="Belgian Chocolate"></a>';
+                ?>
             </div>
             <div class="navbar-collapse collapse ">
                 <ul class="nav navbar-nav">
