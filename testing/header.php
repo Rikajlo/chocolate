@@ -1,4 +1,3 @@
-<!-- start header -->
 <header>
     <div class="navbar navbar-default navbar-static-top">
         <div class="container">
@@ -8,7 +7,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><i class="icon-info-blocks material-icons">location_on</i>Grill</a>
+                <a class="navbar-brand" href="index.html"><img src="logo.png" alt="Belgian Chocolate"></a>
             </div>
             <div class="navbar-collapse collapse ">
                 <ul class="nav navbar-nav">
@@ -31,4 +30,3 @@
         </div>
     </div>
 </header>
-<!-- end header -->
