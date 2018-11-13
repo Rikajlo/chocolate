@@ -200,10 +200,19 @@ header .navbar-default .navbar-nav > .open > a:focus {
     transition: all .3s ease;
 }
 
+div#warnbanner {
+	background-color: #DDEEEE;
+	width: 100%;
+}
+div#warnbanner-content {
+	width: 800px;
+	margin: 0 auto;
+	padding: 5px;}
 
 header .navbar {
     min-height: 62px;
     padding: 0;
+	padding-top: 5px;
 }
 
 header .navbar-nav > li  {

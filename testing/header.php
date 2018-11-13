@@ -1,4 +1,9 @@
 <header>
+    <div id="warnbanner">
+        <div id="warnbanner-content">
+            This website is a school project.
+        </div>
+    </div>
     <div class="navbar navbar-default navbar-static-top">
         <div class="container">
             <div class="navbar-header">
