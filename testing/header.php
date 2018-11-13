@@ -36,6 +36,7 @@
                     <li><a class="waves-effect waves-dark" href="portfolio.php">Gallery</a></li>
                     <li><a class="waves-effect waves-dark" href="pricing.php">Pricing</a></li>
                     <li><a class="waves-effect waves-dark" href="contact.php">Contact</a></li>
+                    <li><a class="waves-effect waves-dark" href="https://www.instagram.com/bethechocolateforme/">Instagram</a></li>
                 </ul>
             </div>
         </div>

@@ -19,6 +19,7 @@
                     <h5 class="widgetheading">Quick Links</h5>
                     <ul class="link-list">
                         <li><a class="waves-effect waves-dark" href="index.php">Index</a></li>
+                        <li><a class="waves-effect waves-dark" href="#">Sitemap</a></li>
                         <li><a class="waves-effect waves-dark" href="contact.php">Contact us</a></li>
                     </ul>
                 </div>
