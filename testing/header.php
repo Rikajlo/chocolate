@@ -12,11 +12,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+<<<<<<< HEAD
                 <?php if (isset($index))
                     echo '<a class="navbar-brand" href="index.php"><img src="img/smolllogo/logowhite.png" alt="Belgian Chocolate"></a>';
                 else
                     echo '<a class="navbar-brand" href="index.php"><img src="img/smolllogo/logowhite.png" height="50" alt="Belgian Chocolate"></a>';
                 ?>
+=======
+                <a class="navbar-brand" href="index.html"><img src="img/smolllogo/logowhite.png" height="40" alt="Belgian Chocolate"></a>
+>>>>>>> 01997b6343e02ba2d0fa9c6ea4d45d759d0eaa17
             </div>
             <div class="navbar-collapse collapse ">
                 <ul class="nav navbar-nav">
