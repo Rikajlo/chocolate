@@ -141,8 +141,9 @@
             </div>
         </div>
     </section>
-    <?php require_once('footer.php'); ?>
+    <?php require_once('footer1.php'); ?>
     <?php require_once('ads.php'); ?>
+    <?php require_once('footer2.php'); ?>
 </div>
 <a href="#" class="scrollup waves-effect waves-dark"><i class="fa fa-angle-up active"></i></a>
 <!-- javascript
