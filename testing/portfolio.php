@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Belgian Chocolate</title>
+    <title>Gallery - Belgian Chocolate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="" />
-    <meta name="author" content="http://webthemez.com" />
+    <?php
+    include('googleanalitich.php');
+    ?>
     <!-- css -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="materialize/css/materialize.min.css" media="screen,projection" />
@@ -44,9 +45,15 @@
                 <div class="col-md-12">
                     <div class="about-logo">
                         <h3>Our <span class="color">Gallery</span></h3>
-                        <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-                        <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-                    </div>
+                    <p>
+                        Check out the awesome photos that include chocolate, belgium, and other related topics! We are also looking forward to seeing your choco photos,
+                        tag us in your Instagram post with #beisthechocolateforme.
+                    </p>
+
+                    <p>
+                        The selected photo will also get a mention on our Instagram profile:
+                        <a href="http://instagram.com/bethechocolateforme">instagram.com/bethechocolateforme</a>
+                    </p></div>
                 </div>
             </div>
 
@@ -59,10 +66,10 @@
             <div class="editContent">
                 <ul class="filter">
                     <li class="active"><a href="#" data-filter="*">All</a></li>
-                    <li><a class="waves-effect waves-dark" href="#" data-filter=".artwork">Artwork</a></li>
-                    <li><a class="waves-effect waves-dark" href="#" data-filter=".creative">Creative</a></li>
-                    <li><a class="waves-effect waves-dark" href="#" data-filter=".nature">Nature</a></li>
-                    <li><a class="waves-effect waves-dark" href="#" data-filter=".outside">Outside</a></li>
+                    <li><a class="waves-effect waves-dark" href="#" data-filter=".chocolate">Chocolate</a></li>
+                    <li><a class="waves-effect waves-dark" href="#" data-filter=".coffee">Coffee</a></li>
+                    <li><a class="waves-effect waves-dark" href="#" data-filter=".belgium">Belgium</a></li>
+                    <li><a class="waves-effect waves-dark" href="#" data-filter=".fruity">Fruity</a></li>
                     <li><a class="waves-effect waves-dark" href="#" data-filter=".photography">Photography</a></li>
                 </ul>
             </div>
@@ -70,7 +77,7 @@
 
             <div class="row">
                 <div id="isotope-gallery-container">
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper chocolate fruity">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/1.jpg" class="img-responsive" alt="1st gallery Thumb">
@@ -80,16 +87,16 @@
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
-                                    <h5>1st gallery Item</h5>
+                                    <h5>Raspberry Dark Chocolate</h5>
                                 </div>
                                 <div class="editContent">
-                                    <p>Nullam id dolor id nibh ultricies vehicula.</p>
+                                    <p>This flavour is a fan favourite combination.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature outside">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper chocolate fruity">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/2.jpg" class="img-responsive" alt="2nd gallery Thumb">
@@ -99,16 +106,16 @@
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
-                                    <h5>2nd gallery Item</h5>
+                                    <h5>Nutty and Fruity</h5>
                                 </div>
                                 <div class="editContent">
-                                    <p>Nullam id dolor id nibh ultricies vehicula.</p>
+                                    <p>All kinds of chocolate.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper photography artwork">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper belgium photography">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/3.jpg" class="img-responsive" alt="3rd gallery Thumb">
@@ -118,16 +125,16 @@
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
-                                    <h5>3rd gallery Item</h5>
+                                    <h5>Belgium</h5>
                                 </div>
                                 <div class="editContent">
-                                    <p>Nullam id dolor id nibh ultricies vehicula.</p>
+                                    <p>The home of Belgian chocolate.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper creative nature">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper  chocolate coffee">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/4.jpg" class="img-responsive" alt="4th gallery Thumb">
@@ -137,16 +144,16 @@
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
-                                    <h5>4th gallery Item</h5>
+                                    <h5>Chocolate in and out a cup</h5>
                                 </div>
                                 <div class="editContent">
-                                    <p>Nullam id dolor id nibh ultricies vehicula.</p>
+                                    <p>Great no matter if it's liquid or solid.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper nature">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper belgium photography">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/5.jpg" class="img-responsive" alt="5th gallery Thumb">
@@ -156,16 +163,16 @@
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
-                                    <h5>5th gallery Item</h5>
+                                    <h5>Belgian Cafe</h5>
                                 </div>
                                 <div class="editContent">
-                                    <p>Nullam id dolor id nibh ultricies vehicula.</p>
+                                    <p>Atmosphere from a Belgian cafe serving chocolate along coffee.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!-- /.gallery-item-wrapper -->
-                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper artwork creative">
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper chocolate coffee">
                         <div class="gallery-item">
                             <div class="gallery-thumb">
                                 <img src="img/works/6.jpg" class="img-responsive" alt="6th gallery Thumb">
@@ -175,10 +182,48 @@
                             </div>
                             <div class="gallery-details">
                                 <div class="editContent">
-                                    <h5>6th gallery Item</h5>
+                                    <h5>With nature and coffee</h5>
                                 </div>
                                 <div class="editContent">
-                                    <p>Nullam id dolor id nibh ultricies vehicula.</p>
+                                    <p>Chocolate is a dream.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.gallery-item-wrapper -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper chocolate photography">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/7.jpg" class="img-responsive" alt="6th gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/7.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+
+                            </div>
+                            <div class="gallery-details">
+                                <div class="editContent">
+                                    <h5>Pralines</h5>
+                                </div>
+                                <div class="editContent">
+                                    <p>Select your favourite from the bunch!</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.gallery-item-wrapper -->
+                    <div class="col-md-4 col-sm-6 col-xs-12 gallery-item-wrapper chocolate">
+                        <div class="gallery-item">
+                            <div class="gallery-thumb">
+                                <img src="img/works/8.jpg" class="img-responsive" alt="6th gallery Thumb">
+                                <div class="image-overlay"></div>
+                                <a href="img/works/8.jpg" class="gallery-zoom"><i class="fa fa-eye"></i></a>
+
+                            </div>
+                            <div class="gallery-details">
+                                <div class="editContent">
+                                    <h5>Chocolate with nuts</h5>
+                                </div>
+                                <div class="editContent">
+                                    <p>Perfect crunch for the holidays season!</p>
                                 </div>
                             </div>
                         </div>

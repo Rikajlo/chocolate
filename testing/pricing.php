@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Belgian Chocolate</title>
+    <title>Pricing - Belgian Chocolate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="" />
-    <meta name="author" content="http://webthemez.com" />
+    <?php
+    include('googleanalitich.php');
+    ?>
     <!-- css -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="materialize/css/materialize.min.css" media="screen,projection" />
@@ -49,24 +50,24 @@
                     <div class="col-md-4 menuItem">
                         <ul class="menu">
                             <li>
-                                testing
-                                <div class="detail">prices are not real, they are tests &nbsp;<span class="price">$14.49</span></div>
+                                Belgian Truffles
+                                <div class="detail">On sale until the 21st of November, 2018: &nbsp;<span class="price">€3.49</span></div>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-4 menuItem">
                         <ul class="menu">
                             <li>
-                                testing
-                                <div class="detail">prices are not real, they are tests &nbsp;<span class="price">$14.49</span></div>
+                                White Choco Dusted Belgian Truffles
+                                <div class="detail">On sale until the 21st of November, 2018: <span class="price">€3.79</span></div>
                             </li>
                         </ul>
                     </div>
                     <div class="col-md-4 menuItem">
                         <ul class="menu">
                             <li>
-                                testing
-                                <div class="detail">prices are not real, they are tests &nbsp;<span class="price">$14.49</span></div>
+                                Dark Berries 80% Cocoa
+                                <div class="detail">On sale until the 21st of November, 2018: &nbsp;<span class="price">€4.49</span></div>
                             </li>
                         </ul>
                     </div>
@@ -74,7 +75,9 @@
             </div>
         </section>
     </section>
-    <?php require_once('footer.php'); ?>
+    <?php require_once('footer1.php'); ?>
+    <?php require_once('ads.php'); ?>
+    <?php require_once('footer2.php'); ?>
 </div>
 <a href="#" class="scrollup waves-effect waves-dark"><i class="fa fa-angle-up active"></i></a>
 <!-- javascript

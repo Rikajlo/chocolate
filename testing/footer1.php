@@ -6,11 +6,11 @@
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
                         <strong>This website is made by students for a school project</strong><br>
-                        JC Main Road, Near Silnile tower<br>
-                        Pin-21542 NewYork US.</address>
+                        1739 Fake St., Central City 80427 </address>
                     <p>
-                        <i class="icon-phone"></i> (123) 456-789 - 1255-12584 <br>
-                        <i class="icon-envelope-alt"></i> email@domainname.com
+                        <i class="icon-phone"></i> I'm sorry the old Taylor can't come to the phone right now. <br>
+                        <i class="icon-envelope-alt"></i> causeshesdead@chocolatefor.me
+                        <i class="icon-envelope-alt"></i> contact@chocolatefor.me
                     </p>
                 </div>
             </div>
@@ -18,11 +18,8 @@
                 <div class="widget">
                     <h5 class="widgetheading">Quick Links</h5>
                     <ul class="link-list">
-                        <li><a class="waves-effect waves-dark" href="#">Latest Events</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Terms and conditions</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Privacy policy</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Career</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Contact us</a></li>
+                        <li><a class="waves-effect waves-dark" href="index.php">Index</a></li>
+                        <li><a class="waves-effect waves-dark" href="contact.php">Contact us</a></li>
                     </ul>
                 </div>
             </div>
@@ -30,9 +27,7 @@
                 <div class="widget">
                     <h5 class="widgetheading">Latest posts</h5>
                     <ul class="link-list">
-                        <li><a class="waves-effect waves-dark" href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Pellentesque et pulvinar enim. Quisque at tempor ligula</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Natus error sit voluptatem accusantium doloremque</a></li>
+                        <li><a class="waves-effect waves-dark" href="#">We don't have any posts right now.</a></li>
                     </ul>
                 </div>
             </div>
@@ -40,9 +35,8 @@
                 <div class="widget">
                     <h5 class="widgetheading">Recent News</h5>
                     <ul class="link-list">
-                        <li><a class="waves-effect waves-dark" href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Pellentesque et pulvinar enim. Quisque at tempor ligula</a></li>
-                        <li><a class="waves-effect waves-dark" href="#">Natus error sit voluptatem accusantium doloremque</a></li>
+                        <li><a class="waves-effect waves-dark" href="#">We don't have any news right now.</a></li>
+
                     </ul>
                 </div>
             </div>

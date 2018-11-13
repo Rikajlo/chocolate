@@ -39,8 +39,18 @@
                 <div class="col-md-12">
                     <div class="about-logo">
                         <h3><span class="color">About</span> us</h3>
-                        <p>We are students of WTSh, and this is a school prodjekt we were forced to do for or dictator</p>
-                        <p>please help us!</p>
+                        <p>We are students of Subotica Tech College, this is our E-Commerce project.
+
+                        <p>
+                            We are pretending to be handmaking the finest Belgian chocolate you can find, but actually we have
+                            just came home from LIDL where we have bought some Belgian chocolate. That's about all we know about it.
+
+                            Please use the form below if you want to contact us or write an email to thisisthe@chocolatefor.me.
+
+                            <p>
+                            On the map you can see our college.
+
+                        </p>
                     </div>
                 </div>
             </div>
@@ -82,7 +92,9 @@
         </div>
 
     </section>
-    <?php require_once('footer.php'); ?>
+    <?php require_once('footer1.php'); ?>
+    <?php require_once('ads.php'); ?>
+    <?php require_once('footer2.php'); ?>
 </div>
 <a href="#" class="scrollup waves-effect waves-dark"><i class="fa fa-angle-up active"></i></a>
 <!-- javascript

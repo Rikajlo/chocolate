@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <title>Belgian Chocolate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="" />
-    <meta name="author" content="http://webthemez.com" />
     <!-- css -->
+    <?php
+    include('googleanalitich.php');
+    ?>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="materialize/css/materialize.min.css" media="screen,projection" />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -125,10 +126,10 @@
                             you can also find unique and playful chocolate figures, gift packages and other interesting chocolate products in our stores.</p>
 
                         <ul class="withArrow">
-                            <li><span class="fa fa-angle-right"></span> Lorem ipsum dolor sit amet</li>
-                            <li><span class="fa fa-angle-right"></span> consectetur adipiscing elit</li>
-                            <li><span class="fa fa-angle-right"></span> Curabitur aliquet quam id dui</li>
-                            <li><span class="fa fa-angle-right"></span> Donec sollicitudin molestie malesuada.</li>
+                            <li><span class="fa fa-angle-right"></span> We handmake our products!</li>
+                            <li><span class="fa fa-angle-right"></span> We use real ingredients!</li>
+                            <li><span class="fa fa-angle-right"></span> We label our products so you know if they are Vegan!</li>
+                            <li><span class="fa fa-angle-right"></span> We don't test our chocolate on animals! </li>
                         </ul>
                         <a href="portfolio.php" class="btn btn-primary waves-effect waves-dark">Gallery</a>
                     </div>
